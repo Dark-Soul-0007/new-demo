@@ -1,4 +1,4 @@
 # new-demo
-this is my first repository
+this is my first Git repository
 <br>
-Author-Abhi Raj
+Author-Abhi Raj (IIT Roorkee)
